@@ -1,5 +1,7 @@
+T.S. Cohen, M. Welling, Harmonic Exponential Families on Manifolds. Proceedings of the International Conference on Machine Learning (ICML), 2015
 
-GrouPy is a python library for numerical computations involving (Lie) groups and homogeneous spaces.
+[`pdf <https://tacocohen.files.wordpress.com/2015/05/hef.pdf>`_] [`supp. mat. <https://tacocohen.files.wordpress.com/2015/05/hef_supplementary_material.pdf>`_]
+
 
 Setup
 =====
